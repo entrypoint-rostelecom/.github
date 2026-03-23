@@ -65,6 +65,7 @@
 ![Скрины приложения](../assets/presentation/скрины_приложения.png)
 
 **Панель администратора:**
+[Сылка на админку](https://admin-panel-ashy-gamma-50.vercel.app/)
 
 ![Скрины админки](../assets/presentation/скрины_админки.png)
 
@@ -73,8 +74,8 @@
 
 Мы подготовили сборки и демонстрационное видео, чтобы можно было посмотреть систему «вживую»:
 
-- 📱 **Билд основного мобильного приложения** → https://disk.yandex.ru/d/6qEt0o3J_Pt6Dw
-- 🖥 **Билд панели администратора** → https://disk.yandex.ru/d/yuRvK-LvZ7vnkw
+- 📱 **Билд основного мобильного приложения** → https://disk.yandex.ru/d/yuRvK-LvZ7vnkw
+- 🖥 **Билд панели администратора** →  https://disk.yandex.ru/d/6qEt0o3J_Pt6Dw
 - 📷 **Билд демонстрационного сканера** → https://disk.yandex.ru/d/Iug6rXeH0mkOag
 
 
